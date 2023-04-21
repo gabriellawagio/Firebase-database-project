@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325142042559",
+    "project_id": "my-first-app-24a0a",
+    "storage_bucket": "my-first-app-24a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325142042559:android:8bb6cf139e9570f1deb30a",
+        "android_client_info": {
+          "package_name": "com.example.midmorningfirebasedatabaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325142042559-4l3ilbn9d8tkpimk0t0ntr7e3gf74lqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv-XNuzc-UsYCZn47D56rPZbwUh-qBfHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325142042559-4l3ilbn9d8tkpimk0t0ntr7e3gf74lqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
